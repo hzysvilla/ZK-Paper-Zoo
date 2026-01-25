@@ -21,8 +21,10 @@ The focus is on **real-world system designs, implementations, and use cases**—
 
 * [NDSS25] [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers]().
 * [sp24] [Certifying Zero-Knowledge Circuits with Refinement Types]().
+* [sec26] [Arguzz: Testing zkVMs for Soundness and Completeness Bugs]().
 * [Sec24] [SoK: Understanding zk-SNARKs: The Gap Between Research and Practice]().
 * [Sec24] [Practical Security Analysis of Zero-Knowledge Proof Circuits]().
+* [Sec24] [ZKSMT: A VM for Proving SMT Theorems in Zero Knowledge]().
 * [CCS24] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup]().
 * [CCS24] [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials]().
 
