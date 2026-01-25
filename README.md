@@ -10,31 +10,29 @@ The focus is on **real-world system designs, implementations, and use cases**—
 
 ### System
 
-[Asplos26] [Evaluating Compiler OptimizationImpacts on zkVM Performance]().
+* [Asplos26] [Evaluating Compiler OptimizationImpacts on zkVM Performance]().
 
 ### PL
 
-[PLDI24] [Automated Detection of Under-constrained Circuits in Zero-Knowledge Proofs]().
+* [PLDI24] [Automated Detection of Under-constrained Circuits in Zero-Knowledge Proofs]().
 
 ### Security
 
-[NDSS25] [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers]().
-[sp24] [Certifying Zero-Knowledge Circuits with Refinement Types]().
-[Sec24] [SoK: Understanding zk-SNARKs: The Gap Between Research and Practice]().
-[Sec24] [Practical Security Analysis of Zero-Knowledge Proof Circuits]().
-[CCS24] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup]().
-[CCS24] [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials]().
+* [NDSS25] [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers]().
+* [sp24] [Certifying Zero-Knowledge Circuits with Refinement Types]().
+* [Sec24] [SoK: Understanding zk-SNARKs: The Gap Between Research and Practice]().
+* [Sec24] [Practical Security Analysis of Zero-Knowledge Proof Circuits]().
+* [CCS24] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup]().
+* [CCS24] [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials]().
 
 ### Software Engineer
 
-[ASE25] [ScaleCirc: Scaling the Analysis over Circom Circuits] ().
-[ICSE2025] [ConsCS: Effective and Efficient Verification of Circom Circuits] ().
-
+* [ASE25] [ScaleCirc: Scaling the Analysis over Circom Circuits] ().
+* [ICSE2025] [ConsCS: Effective and Efficient Verification of Circom Circuits] ().
 
 ### Measurement
 
-[WWW23] [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy]().
-
+* [WWW23] [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy]().
 
 ---
 
