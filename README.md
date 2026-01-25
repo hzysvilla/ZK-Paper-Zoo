@@ -11,6 +11,7 @@ The focus is on **real-world system designs, implementations, and use cases**—
 ### System
 
 * [Asplos26] [Evaluating Compiler OptimizationImpacts on zkVM Performance]().
+* [Asplos23] [GZKP: A GPU Accelerated Zero-Knowledge Proof System]().
 
 ### PL
 
@@ -27,8 +28,8 @@ The focus is on **real-world system designs, implementations, and use cases**—
 
 ### Software Engineer
 
-* [ASE25] [ScaleCirc: Scaling the Analysis over Circom Circuits] ().
-* [ICSE2025] [ConsCS: Effective and Efficient Verification of Circom Circuits] ().
+* [ASE25] [ScaleCirc: Scaling the Analysis over Circom Circuits]().
+* [ICSE2025] [ConsCS: Effective and Efficient Verification of Circom Circuits]().
 
 ### Measurement
 
