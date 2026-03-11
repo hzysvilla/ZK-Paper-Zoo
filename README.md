@@ -15,6 +15,7 @@ The focus is on **real-world system designs, implementations, and use cases**—
 
 ### PL
 
+* [AsiaCCS] [Sok: Understanding ZkVM: From Reaserach to Practice]().
 * [PLDI24] [Automated Detection of Under-constrained Circuits in Zero-Knowledge Proofs]().
 
 ### Security
